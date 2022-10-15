@@ -1,0 +1,103 @@
+body{
+    background-color: #0b132b;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#title{
+    color: #6fffe9;
+    font-size: 42px;
+    text-align: center;
+    text-shadow: black 5px 5px 10px;
+    font-weight: bold;
+}
+
+header{
+    background-color: rgba(58, 80, 107, 0.148);
+    border: 15px #1c2541 solid;
+}
+
+#rustin{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    width: 390px;
+    height: 483px;
+    border-radius: 5px;
+    box-shadow: 8px 8px 8px 8px #3a506b36;
+}
+
+#caption{
+    color: #6fffe9;
+    font-size: 20px;
+    text-align: center;
+}
+
+#early-text{
+    color: #6fffe9;
+    font-size: 26px;
+    text-align: center;
+}
+
+#gay{
+    color: #6fffe9;
+    font-size: 26px;
+    text-align: right;
+}
+
+#nav1{
+    font-size: 26px;
+    text-align: center;
+}
+
+h2{
+    color: #5bc0be;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+#civil{
+    color: #6fffe9;
+    font-size: 26px;
+    text-align: left;
+    float: left;
+}
+
+#dead{
+    color: #6fffe9;
+    font-size: 26px;
+    text-align: center;
+}
+
+footer{
+    color: #6fffe9;
+    font-size: 26px;
+    text-align: center;
+}
+
+#civ{
+    float: right;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+
+#oip{
+    float: left;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+
+#btt{
+    font-size: 16px;
+    text-align: left;
+}
+
+#source{
+    text-align: left;
+}
+
+div{
+    padding: 5%;
+    border: 80px #1c2541 solid;
+}
